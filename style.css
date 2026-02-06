@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/imagens/mapa.jpg");
+    background-image: url("imagens/mapa.jpg");
     /* IMAGEM DO FUNDO */
     background-size: cover;
     /* TAMANHO DO FUNDO */
@@ -79,4 +79,5 @@ button {
 .traducao {
     color: #ffffff;
     font-size: 18px;
+
 }
