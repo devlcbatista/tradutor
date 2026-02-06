@@ -6,7 +6,9 @@
 }
 
 body {
-    background-image: url("/imagens/mapa.jpg");
+    background: red;
+    background-image: url("imagens/mapa.jpg");
+    background-image: url("imagens/mapa.jpg");
     /* IMAGEM DO FUNDO */
     background-size: cover;
     /* TAMANHO DO FUNDO */
@@ -81,4 +83,5 @@ button {
     font-size: 18px;
 
 }
+
 
