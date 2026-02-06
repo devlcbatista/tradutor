@@ -6,7 +6,6 @@
 }
 
 body {
-    background: red;
     background-image: url("imagens/mapa.jpg");
     /* IMAGEM DO FUNDO */
     background-size: cover;
@@ -92,6 +91,7 @@ button {
 
 
 }
+
 
 
 
